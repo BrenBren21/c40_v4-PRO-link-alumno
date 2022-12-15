@@ -1,2 +1,2 @@
-# c40_v4-PRO-link-alumno
-codigo verificado, tiene el boton de reinicio adicional
+# C40_Código de referencia_carreras de autos
+Código de referencia de la maestra
